@@ -1,6 +1,6 @@
 # Animal 10 Image Classification
 
-Dibuat untuk memenuhi tugas matakuliah Machine Learning di Program Studi S1 Teknik Komputer Telkom University
+Dibuat untuk memenuhi tugas bear matakuliah Machine Learning di Program Studi S1 Teknik Komputer Universitas Telkom
 
 ## Contributors
 
