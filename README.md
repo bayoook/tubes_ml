@@ -269,80 +269,80 @@ KNN : Epochs=50, Train accuracy=0.98438, Validation accuracy=0.97370
 ![anjing1](img/anjing1.png)
 
 ```py
-Actual  :  anjing
-Predict :  anjing
+Actual  : anjing
+Predict : anjing
 ```
 
 \
 ![tupai1](img/tupai1.png)
 
 ```py
-Actual  :  tupai
-Predict :  tupai
+Actual  : tupai
+Predict : tupai
 ```
 
 \
 ![gajah1](img/gajah1.png)
 
 ```py
-Actual  :  gajah
-Predict :  gajah
+Actual  : gajah
+Predict : gajah
 ```
 
 \
 ![kuda1](img/kuda1.png)
 
 ```py
-Actual  :  kuda
-Predict :  kuda
+Actual  : kuda
+Predict : kuda
 ```
 
 \
 ![laba-laba1](img/laba-laba1.png)
 
 ```py
-Actual  :  laba-laba
-Predict :  laba-laba
+Actual  : laba-laba
+Predict : laba-laba
 ```
 
 \
 ![ayam1](img/ayam1.png)
 
 ```py
-Actual  :  ayam
-Predict :  ayam
+Actual  : ayam
+Predict : ayam
 ```
 
 \
 ![domba1](img/domba1.png)
 
 ```py
-Actual  :  domba
-Predict :  domba
+Actual  : domba
+Predict : domba
 ```
 
 \
 ![kucing1](img/kucing1.png)
 
 ```py
-Actual  :  kucing
-Predict :  kucing
+Actual  : kucing
+Predict : kucing
 ```
 
 \
 ![sapi1](img/sapi1.png)
 
 ```py
-Actual  :  sapi
-Predict :  sapi
+Actual  : sapi
+Predict : sapi
 ```
 
 \
 ![kupu-kupu1](img/kupu-kupu1.png)
 
 ```py
-Actual  :  kupu-kupu
-Predict :  kupu-kupu
+Actual  : kupu-kupu
+Predict : kupu-kupu
 ```
 
 ### Test-2
@@ -350,80 +350,80 @@ Predict :  kupu-kupu
 ![anjing2](img/anjing2.png)
 
 ```py
-Actual  :  anjing
-Predict :  anjing
+Actual  : anjing
+Predict : anjing
 ```
 
 \
 ![tupai2](img/tupai2.png)
 
 ```py
-Actual  :  tupai
-Predict :  tupai
+Actual  : tupai
+Predict : tupai
 ```
 
 \
 ![gajah2](img/gajah2.png)
 
 ```py
-Actual  :  gajah
-Predict :  gajah
+Actual  : gajah
+Predict : gajah
 ```
 
 \
 ![kuda2](img/kuda2.png)
 
 ```py
-Actual  :  kuda
-Predict :  kuda
+Actual  : kuda
+Predict : kuda
 ```
 
 \
 ![laba-laba2](img/laba-laba2.png)
 
 ```py
-Actual  :  laba-laba
-Predict :  kupu-kupu
+Actual  : laba-laba
+Predict : kupu-kupu
 ```
 
 \
 ![ayam2](img/ayam2.png)
 
 ```py
-Actual  :  ayam
-Predict :  domba
+Actual  : ayam
+Predict : domba
 ```
 
 \
 ![domba2](img/domba2.png)
 
 ```py
-Actual  :  domba
-Predict :  domba
+Actual  : domba
+Predict : domba
 ```
 
 \
 ![kucing2](img/kucing2.png)
 
 ```py
-Actual  :  kucing
-Predict :  kucing
+Actual  : kucing
+Predict : kucing
 ```
 
 \
 ![sapi2](img/sapi2.png)
 
 ```py
-Actual  :  sapi
-Predict :  sapi
+Actual  : sapi
+Predict : sapi
 ```
 
 \
 ![kupu-kupu2](img/kupu-kupu2.png)
 
 ```py
-Actual  :  kupu-kupu
-Predict :  kupu-kupu
+Actual  : kupu-kupu
+Predict : kupu-kupu
 ```
 
 ### Test-3
@@ -431,80 +431,80 @@ Predict :  kupu-kupu
 ![anjing3](img/anjing3.png)
 
 ```py
-Actual  :  anjing
-Predict :  anjing
+Actual  : anjing
+Predict : anjing
 ```
 
 \
 ![tupai3](img/tupai3.png)
 
 ```py
-Actual  :  tupai
-Predict :  tupai
+Actual  : tupai
+Predict : tupai
 ```
 
 \
 ![gajah3](img/gajah3.png)
 
 ```py
-Actual  :  gajah
-Predict :  gajah
+Actual  : gajah
+Predict : gajah
 ```
 
 \
 ![kuda3](img/kuda3.png)
 
 ```py
-Actual  :  kuda
-Predict :  kuda
+Actual  : kuda
+Predict : kuda
 ```
 
 \
 ![laba-laba3](img/laba-laba3.png)
 
 ```py
-Actual  :  laba-laba
-Predict :  laba-laba
+Actual  : laba-laba
+Predict : laba-laba
 ```
 
 \
 ![ayam3](img/ayam3.png)
 
 ```py
-Actual  :  ayam
-Predict :  ayam
+Actual  : ayam
+Predict : ayam
 ```
 
 \
 ![domba3](img/domba3.png)
 
 ```py
-Actual  :  domba
-Predict :  anjing
+Actual  : domba
+Predict : anjing
 ```
 
 \
 ![kucing3](img/kucing3.png)
 
 ```py
-Actual  :  kucing
-Predict :  kucing
+Actual  : kucing
+Predict : kucing
 ```
 
 \
 ![sapi3](img/sapi3.png)
 
 ```py
-Actual  :  sapi
-Predict :  kuda
+Actual  : sapi
+Predict : kuda
 ```
 
 \
 ![kupu-kupu3](img/kupu-kupu3.png)
 
 ```py
-Actual  :  kupu-kupu
-Predict :  kupu-kupu
+Actual  : kupu-kupu
+Predict : kupu-kupu
 ```
 
 ## Source Code
