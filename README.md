@@ -49,7 +49,7 @@ CPU
 20m - 30m per epoch
 ```
 
-### Sourcecode for tensorflow model
+### Source code for tensorflow model
 
 ```py
 base_model = applications.VGG16(weights='imagenet', include_top=False, input_shape=(img_rows, img_cols, img_channel))
@@ -129,7 +129,7 @@ data train = 4000 (400/animal)
 data test  = 1000 (100/animal)
 ```
 
-## Training Sourcecode
+## Training Source code
 
 ```py
 train_datagen = ImageDataGenerator(
