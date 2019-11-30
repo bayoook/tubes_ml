@@ -13,7 +13,7 @@ Dibuat untuk memenuhi tugas bear matakuliah Machine Learning di Program Studi S1
 
 ## Method
 
-KNN (K-Nearest Neighbors)
+CNN (Convolutional Neural Network)
 
 ## Dataset
 
