@@ -274,11 +274,11 @@ Predict :  anjing
 ```
 
 \
-![musang1](img/musang1.png)
+![tupai1](img/tupai1.png)
 
 ```py
-Actual  :  musang
-Predict :  musang
+Actual  :  tupai
+Predict :  tupai
 ```
 
 \
@@ -355,11 +355,11 @@ Predict :  anjing
 ```
 
 \
-![musang2](img/musang2.png)
+![tupai2](img/tupai2.png)
 
 ```py
-Actual  :  musang
-Predict :  musang
+Actual  :  tupai
+Predict :  tupai
 ```
 
 \
@@ -436,11 +436,11 @@ Predict :  anjing
 ```
 
 \
-![musang3](img/musang3.png)
+![tupai3](img/tupai3.png)
 
 ```py
-Actual  :  musang
-Predict :  musang
+Actual  :  tupai
+Predict :  tupai
 ```
 
 \
