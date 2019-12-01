@@ -509,7 +509,7 @@ Predict : kupu-kupu
 
 ## Source Code
 
-[ml.ipynb](ml.ipynb)
+[animals_10.ipynb](animals_10.ipynb)
 
 ## Output
 
