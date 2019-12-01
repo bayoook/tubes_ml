@@ -19,6 +19,11 @@ CNN (Convolutional Neural Network)
 
 - [kaggle/alessiocorrado99/animals10](https://www.kaggle.com/alessiocorrado99/animals10)
 
+## Kaggle and Google Colab
+
+- [Kaggle](https://www.kaggle.com/min4tozaki/animal-classification)
+- [Google Colab](https://min4tozaki.me/tubes-ml)
+
 ## Tools
 
 - [Python3](https://www.python.org/download/releases/3.0/)
