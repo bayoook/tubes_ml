@@ -259,7 +259,7 @@ Epoch 50/50
 ![train_acc](img/training_chart.png)
 
 ```py
-KNN : Epochs=50, Train accuracy=0.98438, Validation accuracy=0.97370
+CNN : Epochs=50, Train accuracy=0.98438, Validation accuracy=0.97370
 ```
 
 ## Manual Test
